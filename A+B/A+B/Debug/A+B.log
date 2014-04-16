@@ -1,0 +1,28 @@
+﻿生成启动时间为 2014/4/11 17:50:16。
+     1>项目“F:\编程实例\C语言\P&ZOJ\A+B\A+B\A+B.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\A+B.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\programming software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\编程实例\c语言\p&zoj\a+b\a+b\main.cpp(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\programming software\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\编程实例\c语言\p&zoj\a+b\a+b\main.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\编程实例\c语言\p&zoj\a+b\a+b\main.cpp(54): warning C4101: “temp”: 未引用的局部变量
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\programming software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\编程实例\C语言\P&ZOJ\A+B\Debug\A+B.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\A+B.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\编程实例\C语言\P&ZOJ\A+B\Debug\A+B.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\编程实例\C语言\P&ZOJ\A+B\Debug\A+B.lib" /MACHINE:X86 Debug\A+B.res
+         Debug\main.obj
+         LINK : 没有找到 F:\编程实例\C语言\P&ZOJ\A+B\Debug\A+B.exe 或上一个增量链接没有生成它；正在执行完全链接
+         A+B.vcxproj -> F:\编程实例\C语言\P&ZOJ\A+B\Debug\A+B.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\编程实例\C语言\P&ZOJ\A+B\Debug\A+B.exe;#1" /manifest Debug\A+B.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\A+B.unsuccessfulbuild”。
+         正在对“Debug\A+B.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\编程实例\C语言\P&ZOJ\A+B\A+B\A+B.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.67
